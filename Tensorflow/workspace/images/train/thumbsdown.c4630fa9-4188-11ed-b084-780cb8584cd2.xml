@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbsdown</folder>
+	<filename>thumbsdown.c4630fa9-4188-11ed-b084-780cb8584cd2.jpg</filename>
+	<path>C:\Users\DELL\tensorflow_obj_detection\object-Detection-using-Tensorflow\Tensorflow\workspace\images\collectedimages\thumbsdown\thumbsdown.c4630fa9-4188-11ed-b084-780cb8584cd2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ThumbsDown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>178</ymin>
+			<xmax>303</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>
