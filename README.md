@@ -4,6 +4,7 @@ This project includes a gesture detection model build by using Tensorflow Object
 It accurately identifies 4 gestures: Thank you, live long, thumbs up and thumbs down. <br>
 LabelImg library used for labelling input images https://github.com/heartexlabs/labelImg. <br>
 ssd_mobilenet_v2_fpnlite_320x320 model from from tensorflow model zoo used for training. <br>
+The project can identify gestures in real time through the system webcam. <br>
 <br>
 <br>
 MODEL LOSS: <br>
